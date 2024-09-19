@@ -1,3 +1,3 @@
 # myFirstCode
 this is a love formula
-需要更多练习
+此名为 爱的 公式
